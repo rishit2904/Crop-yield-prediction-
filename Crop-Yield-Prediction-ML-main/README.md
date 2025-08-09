@@ -4,7 +4,7 @@
 
 This project leverages machine learning to predict crop yields based on various agricultural and environmental factors. It features an interactive web application built with Flask, advanced regression models for prediction, confidence interval estimation, and SHAP-based explainability to understand the key drivers behind each prediction.
 
-**Repository:** [https://github.com/keshav6740/Crop-Yield-Prediction-ML](https://github.com/keshav6740/Crop-Yield-Prediction-ML)
+
 
 ## Table of Contents
 - [Key Features](#key-features)
